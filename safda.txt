@@ -1,2 +1,6 @@
 fghfjhgfhnvbmj
+<<<<<<< HEAD
 ghffhjrtu
+=======
+gdh
+>>>>>>> bdad92e90675b23c9f4ef7090c1591da0939ef01
